@@ -1,0 +1,369 @@
+@font-face {
+font-family: 'economica'; /*a name to be used later*/
+src: url('font/Economica-Regular-OTF.otf'); /*URL to font*/
+}
+
+body {
+color: white;
+font-family: 'economica';
+letter-spacing: 1px;
+}
+
+a {
+color: inherit; /* blue colors for links too */
+text-decoration: inherit; /* no underline */
+background-color: inherit;
+}
+
+input:invalid {
+background-color: red;
+}
+
+#gridContainer {
+width: 3000px;
+height: 3000px;
+background-size: 30px 30px;
+background-image:
+linear-gradient(to right, grey 1px, transparent 1px),
+linear-gradient(to bottom, grey 1px, transparent 1px);
+border: 30px solid dodgerblue;
+}  
+
+#main {
+width: 100%;
+min-height: 100%;
+margin: 0 auto;
+text-align: center;
+}
+
+#controls { width: 54px;
+right: 0;
+position: absolute;
+z-index: 50;
+}
+
+#results {
+width: 200px; 
+height: 100px; 
+background-color: #3e4357; 
+border: 2px solid black; 
+position: absolute; 
+left: 50%; 
+top: 50%; 
+margin-left: -100px;
+margin-top: -50px;
+text-align: center;
+z-index: 100;
+color: white;
+}  
+
+#guide {
+width: calc(100% - 148px);
+height: 800px;
+position: absolute;
+top: 0;
+margin-left: 74px;
+display: flex;
+justify-content: space-around;
+z-index: 99;
+}
+
+#guide-left {
+margin-top: 10px;
+flex-shrink: 0;
+flex-basis: 170px;
+}
+
+#guide li {
+height: 30px;
+margin-bottom: 16px;
+padding: 0px 5px;
+border: 2px solid black;
+background-color: #3e4357;
+list-style-type: none;
+line-height: 30px;
+}
+
+#guide-mid {
+margin: 0 auto;
+margin-top: 40px;
+text-align: center;
+}
+
+#guide-mid p {
+margin: 0px 20px;
+margin-top: 10px;
+line-height: 20px;
+}
+
+#guide-right {
+width: 170px;
+margin-top: 10px;
+flex-shrink: 0;
+flex-basis: 170px;
+}
+
+
+.red {
+color: #f44a47;
+}
+
+
+  
+
+
+#attributes {
+left: 50%;
+margin-left: -116px;
+position: absolute;
+z-index: 49;
+}
+#attributes input {
+width: 56px;
+height: 26px;
+text-align: center;
+}
+
+#attributes button {
+height: 26px;
+width: 28px;
+background-color: #3e4357;
+color: #fff;
+text-align: center;
+border-left: 2px solid black;
+white-space:nowrap;
+}
+
+#attributes button:hover {
+background-color: darkgray;
+}
+
+#attributes button.pressed {
+background-color: darkgray;
+}
+
+.temperature {
+border: 2px solid black;
+background-color: #3e4357;
+float: left;
+}
+
+.mass {
+border: 2px solid black;
+background-color: #3e4357;
+float: left;
+}
+
+
+#left {
+width: 50px;
+border: 2px solid black;
+left: 0;
+top: 0;
+position: absolute;
+z-index: 51;
+}
+#right {
+width: 104px;
+left: 54px;
+top: 0;
+position: absolute;
+z-index: 50;
+}
+#right .left {
+float: left;
+}
+#right .right {
+float: right;
+}
+
+#blueprint {
+position: relative;
+overflow: hidden;
+}
+
+
+.left {
+float: left;
+}
+
+.button {
+width: 50px;
+height: 50px;
+border: none;
+position: relative;
+background-color: #3e4357;
+margin: 0;
+}
+
+.button img {
+width: 50px;
+height: 50px;
+position: absolute;
+left: 0;
+top: 0;
+}
+
+.button:hover img {
+width: 46px;
+height: 46px;
+border: 2px solid darkslategray;
+}
+
+.button.pressed {
+background-color: darkgray;
+border-color: black;
+}
+
+.button.disabled {
+display: none;
+}
+
+.button.pressed img {
+width: 46px;
+height: 46px;
+border: 2px solid darkslategray;
+}
+
+.buttonGroup {
+border: 2px solid black;
+background-color: #3e4357;
+}
+
+.buttonGroup .left {
+float: left;
+}
+
+.buttonGroup .right {
+float: right;
+}
+
+.disabled {
+display: none;
+}
+
+.materialsBox {
+border: 2px solid black;
+border-left: 0px;
+background-color: #3e4357;
+}
+
+.materialsArea {
+width: 104px;
+left: 54px;
+top: 0;
+position: absolute;
+z-index: 50;
+}
+
+.specialMaterialsBox {
+left: 54px;
+top: 0;
+position: absolute;
+z-index: 50; 
+height: 800px;
+}
+
+.specialMaterials, .flex {
+height: 770px; 
+display: flex; 
+flex-direction: column; 
+flex-wrap: wrap;
+}
+
+.clear { 
+clear: both;
+}
+.text {
+width: 100%;
+padding: 10px 0px;
+color: white;
+background-color: #3e4357;
+text-align: center;
+}
+.center {
+margin: 0 auto;
+}
+
+
+.button span {
+visibility: hidden;
+background-color: #3e4357;
+color: #fff;
+text-align: center;
+padding: 5px 5px;
+border: 2px solid black;
+border-radius: 6px;
+white-space:nowrap;
+position: absolute;
+z-index: 55;
+top: 0;
+left: 105%; 
+}
+.button:hover span {
+visibility: visible;
+}
+.button span:hover {
+visibility: hidden;
+}
+
+
+.connections {
+width: 20px; 
+height: 20px; 
+display: none; 
+position: absolute; 
+z-index: 16; 
+pointer-events: none;
+}
+#middle {
+left: 54px;
+top: 0;
+position: absolute;
+z-index: 51;
+
+}
+.buildingmenu {
+}
+.buildingmenu img {
+width: 50px;
+height: 50px;
+margin: 0px;
+padding: 0px;
+vertical-align: middle;
+}    
+.buildingmenu img:hover {
+width: 46px;
+height: 46px;
+margin: 0px;
+padding: 0px;
+vertical-align: middle;
+}
+.buildingtype {
+height: 770px;
+position: relative;
+display: none;
+flex-direction: column;
+flex-wrap: wrap;
+
+}
+.buildings {
+width: 80px;
+height: 110px;
+}
+
+.buildings img {
+width: 80px;
+height: 110px;
+margin: 0px;
+padding: 0px;
+}
+
+.buildings img:hover {
+width: 76px;
+height: 106px;
+margin: 0px;
+padding: 0px;
+vertical-align: middle;
+border: 2px solid darkslategray;
+}

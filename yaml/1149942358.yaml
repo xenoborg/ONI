@@ -1,0 +1,24 @@
+---
+name: null
+info:
+  size:
+    X: 1
+    Y: 1
+  area: 1
+cells:
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: 0
+    location_y: 0
+buildings:
+  - 
+    id: Tile
+    location_x: 0
+    location_y: 0
+    element: SandStone
+    temperature: 293.15
+pickupables: [ ]
+elementalOres: [ ]
+otherEntities: [ ]

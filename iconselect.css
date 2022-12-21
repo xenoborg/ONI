@@ -1,0 +1,113 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 28, 2013, 7:09:35 AM
+    Author     : bugraozden
+*/
+
+.icon-select{
+    width:50px;
+    height:50px;
+ }
+
+ .icon-select .selected-box {
+
+     position: relative;
+     margin: 0px;
+     padding: 0px;
+     width: 50px; /* sil */
+     height: 50px; /* sil */
+ }
+
+ .icon-select .selected-box:hover {
+
+     position: relative;
+     margin: 0px;
+     padding: 0px;
+ }
+
+
+
+ .icon-select .selected-icon {
+
+     position: absolute;
+     margin: 0px;
+     padding: 0px;
+     width: 50px; /* sil */
+     height: 50px; /* sil */
+
+ }
+
+ .icon-select .selected-icon img {
+     width: 50px; /* sil */
+     height: 50px; /* sil */
+
+ }
+ .icon-select .selected-icon:hover img {
+ width: 46px;
+     height: 46px;
+        border: 2px solid darkslategray;
+}
+
+ .icon-select .component-icon{
+     position: absolute;
+     bottom:5px;
+     right:4px;
+ }
+
+ .icon-select .box {
+
+     position: absolute;
+     top:-2px;
+     left:52px;
+     margin: 0px;
+     padding: 0px;
+     width: 50px; /* sil */
+     height: 50px; /* sil */
+
+
+     
+     overflow:auto;
+     /*
+     -webkit-overflow-scrolling: touch;
+     */
+
+ }
+
+ .icon-select .icon {
+     position: relative;
+     padding: 0px;
+     width: 48px; /* sil */
+     height: 48px; /* sil */
+
+
+     overflow:hidden;
+     float: left;
+ }
+
+ .icon-select .icon:hover {
+     border: 2px solid darkslategray;
+     box-sizing: border-box;
+     
+ }
+
+ .icon-select .icon:hover img {
+width: 76px;
+     height: 106px;
+
+ }
+
+ .icon-select .icon.selected {
+     position: relative;
+     padding: 0px;
+     width: 48px; /* sil */
+     height: 48px; /* sil */
+
+
+
+     overflow:hidden;
+     float: left;
+ }

@@ -1,0 +1,888 @@
+---
+name: null
+info:
+  size:
+    X: 13
+    Y: 8
+  area: 104
+cells:
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: -6
+    location_y: 3
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: -5
+    location_y: 3
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: -4
+    location_y: 3
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: -3
+    location_y: 3
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: -2
+    location_y: 3
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: -1
+    location_y: 3
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: 0
+    location_y: 3
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: 1
+    location_y: 3
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: 2
+    location_y: 3
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: 3
+    location_y: 3
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 4
+    location_y: 3
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: 5
+    location_y: 3
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: 6
+    location_y: 3
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: -6
+    location_y: 2
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: -5
+    location_y: 2
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: -4
+    location_y: 2
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: -3
+    location_y: 2
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: -2
+    location_y: 2
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: -1
+    location_y: 2
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 0
+    location_y: 2
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 1
+    location_y: 2
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 2
+    location_y: 2
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: 3
+    location_y: 2
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: 4
+    location_y: 2
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: 5
+    location_y: 2
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: 6
+    location_y: 2
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: -6
+    location_y: 1
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: -5
+    location_y: 1
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: -4
+    location_y: 1
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: -3
+    location_y: 1
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: -2
+    location_y: 1
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: -1
+    location_y: 1
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 0
+    location_y: 1
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 1
+    location_y: 1
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 2
+    location_y: 1
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 3
+    location_y: 1
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 4
+    location_y: 1
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 5
+    location_y: 1
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: 6
+    location_y: 1
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: -6
+    location_y: 0
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: -5
+    location_y: 0
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: -4
+    location_y: 0
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: -3
+    location_y: 0
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: -2
+    location_y: 0
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: -1
+    location_y: 0
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 0
+    location_y: 0
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 1
+    location_y: 0
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 2
+    location_y: 0
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 3
+    location_y: 0
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 4
+    location_y: 0
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 5
+    location_y: 0
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: 6
+    location_y: 0
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: -6
+    location_y: -1
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: -5
+    location_y: -1
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: -4
+    location_y: -1
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: -3
+    location_y: -1
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: -2
+    location_y: -1
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: -1
+    location_y: -1
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 0
+    location_y: -1
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 1
+    location_y: -1
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 2
+    location_y: -1
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 3
+    location_y: -1
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 4
+    location_y: -1
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 5
+    location_y: -1
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: 6
+    location_y: -1
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: -6
+    location_y: -2
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: -5
+    location_y: -2
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: -4
+    location_y: -2
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: -3
+    location_y: -2
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: -2
+    location_y: -2
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: -1
+    location_y: -2
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 0
+    location_y: -2
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 1
+    location_y: -2
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 2
+    location_y: -2
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 3
+    location_y: -2
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 4
+    location_y: -2
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 5
+    location_y: -2
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: 6
+    location_y: -2
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: -6
+    location_y: -3
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: -5
+    location_y: -3
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: -4
+    location_y: -3
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: -3
+    location_y: -3
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: -2
+    location_y: -3
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: -1
+    location_y: -3
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 0
+    location_y: -3
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 1
+    location_y: -3
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 2
+    location_y: -3
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 3
+    location_y: -3
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 4
+    location_y: -3
+  - 
+    element: Oxygen
+    mass: 0
+    temperature: 0
+    location_x: 5
+    location_y: -3
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: 6
+    location_y: -3
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: -6
+    location_y: -4
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: -5
+    location_y: -4
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: -4
+    location_y: -4
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: -3
+    location_y: -4
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: -2
+    location_y: -4
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: -1
+    location_y: -4
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: 0
+    location_y: -4
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: 1
+    location_y: -4
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: 2
+    location_y: -4
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: 3
+    location_y: -4
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: 4
+    location_y: -4
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: 5
+    location_y: -4
+  - 
+    element: SandStone
+    mass: 0
+    temperature: 293.15
+    location_x: 6
+    location_y: -4
+buildings:
+  - 
+    id: Tile
+    location_x: -6
+    location_y: 3
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: -5
+    location_y: 3
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: -4
+    location_y: 3
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: -3
+    location_y: 3
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: -2
+    location_y: 3
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: -1
+    location_y: 3
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: 0
+    location_y: 3
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: 1
+    location_y: 3
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: 2
+    location_y: 3
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: 3
+    location_y: 3
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: 5
+    location_y: 3
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: 6
+    location_y: 3
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: -6
+    location_y: 2
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: 3
+    location_y: 2
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: 4
+    location_y: 2
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: 5
+    location_y: 2
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: 6
+    location_y: 2
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: -6
+    location_y: 1
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: 6
+    location_y: 1
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: -6
+    location_y: 0
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: 6
+    location_y: 0
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: -6
+    location_y: -1
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: 6
+    location_y: -1
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: -6
+    location_y: -2
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: 6
+    location_y: -2
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: -6
+    location_y: -3
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: WashSink
+    location_x: -3
+    location_y: -3
+    element: Cuprite
+    temperature: 293.15
+  - 
+    id: GasReservoir
+    location_x: 0
+    location_y: -3
+    element: Cuprite
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: 6
+    location_y: -3
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: -6
+    location_y: -4
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: -5
+    location_y: -4
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: -4
+    location_y: -4
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: -3
+    location_y: -4
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: -2
+    location_y: -4
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: -1
+    location_y: -4
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: 0
+    location_y: -4
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: 1
+    location_y: -4
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: 2
+    location_y: -4
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: 3
+    location_y: -4
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: 4
+    location_y: -4
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: 5
+    location_y: -4
+    element: SandStone
+    temperature: 293.15
+  - 
+    id: Tile
+    location_x: 6
+    location_y: -4
+    element: SandStone
+    temperature: 293.15
+pickupables: [ ]
+elementalOres: [ ]
+otherEntities: [ ]
